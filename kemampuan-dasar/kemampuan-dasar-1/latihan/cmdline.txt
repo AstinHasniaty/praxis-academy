@@ -1,0 +1,98 @@
+Nama: Astin Hasniaty
+
+============DAFTAR COMMAND LINE DI WINDOWS===========
+
+1. break 
+Untuk mengatur atau menghapus pemeriksaan CTRL + C 
+yang diperluas pada sistem MS-DOS. Jika digunakan tanpa parameter, 
+break menampilkan pengaturan saat ini.
+
+2. cd
+Untuk menampilkan nama atau mengubah direktori saat ini. 
+
+3. Chkdsk
+Untuk memeriksa disk dan menampilkan laporan status dan command ini 
+hanya bisa di gunakan pada cmd administrator. 
+
+4. compact
+Untuk menampilkan atau mengubah komprsi file dari NTFS partisi. 
+
+5. copy
+Untuk mengkopy satu atau lebih file ke lokasi yang lain. 
+
+6. date
+Untuk mengubah tanggal melalui Administrator.
+
+7. del
+Untuk menghapus satu atau banyak file.
+
+8. dir
+Untuk menampilkan list file dan subdirection dalam directory tersebut.
+
+9. exit
+Untuk menutup CMD. 
+
+10. help
+Menyediakan Help informasi untuk windows command. 
+
+11. md/ mkdir
+Untuk membuat sebuah direktori.
+
+12. move
+Memindahkan satu atau lebih file dari satu direktori ke tempat lain.
+
+13. print
+Print sebuah file.
+
+14. rd / rmdir 
+Menghapus sebua direktori.
+
+15. cls
+Membersihkan layar cmd.
+
+16. robocopy* 
+Untuk mengcopy isi life ke dalam folder, dari folder lain
+
+17. ren / rename
+mengganti nama file.
+
+18. type
+Menampilkan konten type file.
+
+19. time
+mengganti waktu melalui Administrator.
+
+20. ping
+Perintah ping memverifikasi konektivitas tingkat IP 
+ke komputer TCP / IP lain dengan mengirimkan pesan 
+Internet Control Message Protocol (ICMP).
+
+21. ipconfig
+Menampilkan semua konfigurasi jaringan TCP / IP saat ini 
+dan menyegarkan pengaturan Dynamic Host Configuration Protocol (DHCP) 
+dan Domain Name System (DNS).
+
+22. find
+Mencari sebuah teks di dalam file. 
+
+23. go to
+Arahkan cmd.exe ke baris berlabel dalam program batch. 
+Dalam program batch, goto mengarahkan pemrosesan perintah 
+ke sebuah garis yang diidentifikasi oleh label. Ketika label ditemukan,
+pemrosesan berlanjut mulai dengan perintah yang dimulai pada baris berikutnya.
+
+24. pause
+Tangguhkan pemrosesan program batch dan tampilkan prompt berikut:
+Press any key to continue . . .
+
+25. hostname
+Menampilkan hostname dari nama komputer lengkap dari komputer.
+
+26. shutdown
+Memungkinkan untuk mematikan atau memulai ulang komputer lokal 
+atau jarak jauh satu per satu.
+
+27. start
+memulai program
+
+28. xcopy
